@@ -9,5 +9,3 @@ Hi, my name is Lars. I'm a Laravel developer from The Netherlands. I mostly spen
 ### Socials
 
 You can find me on [Twitter](https://twitter.com/larstwolters). I don't use any other socials.
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=18&duration=2000&color=0093F7&background=18FF0000&lines=%40larstw)](https://github.com/larstw)
