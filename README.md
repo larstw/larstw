@@ -8,4 +8,4 @@ Hi, my name is Lars. I'm a Laravel developer from The Netherlands. I mostly spen
 
 ### Socials 🐦
 
-You can find me on [Twitter](https://twitter.com/larstwolters). I don't use any other socials.
+You can find me on [Twitter](https://twitter.com/larstw_). I don't use any other socials.
